@@ -6,6 +6,7 @@ This repo contains starter files and the finished project files for all the proj
 
 Plus, I made all the course slides available for download, to make it easier to follow along the conceptual videos.
 
+Please read the following Frequently Asked Questions (FAQ) carefully before starting the course.
 
 ## FAQ
 
@@ -19,7 +20,7 @@ Plus, I made all the course slides available for download, to make it easier to 
 
 ### Q3: You keep mentioning your resources page. Where can I find it?
 
-**A:** It's on my website at <http://codingheroes.io/resources>. You can subscribe for updates 😉
+**A:** It's on my website at <http://codingheroes.io/resources>. You can subscribe for updates.
 
 ### Q4: What VSCode theme are you using?
 
@@ -41,3 +42,6 @@ Plus, I made all the course slides available for download, to make it easier to 
 
 **A:** Yep, I thought about this! I started quite an active Discord chatroom for you to chat with other students, help each other out or just hang out with like-minded people. You can [join using this invite](https://discord.gg/0ocsLcmnIZqxMSYD).
 
+### Q9: How do I get my certificate of completion?
+
+**A:** A certificate of completion is provided by Udemy after you complete 100% of the course. After completing the course, just click on the small trophy icon on the course overview page. If you want to change your name on the certificate, please [contact the Udemy support team](https://support.udemy.com/hc/en-us).
